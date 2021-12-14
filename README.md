@@ -17,7 +17,7 @@ Some of my favourite tools are:
 </p>
 
 <p>
-I've also still in love with music-making, having made scores for TV, movies and videogames... you can check a big index of them <strong><a href="https://gabrielguerra.org">here</a></strong>
+I've also still in love with music-making, having made scores for TV, movies and videogame and a BIG AMOUNT of my own releases... you can check a big index of them <strong><a href="https://gabrielguerra.org">here</a></strong>
 </p>
 
 <p> Feel free to contact me whenever you want at my:
