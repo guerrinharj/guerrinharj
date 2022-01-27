@@ -22,13 +22,11 @@ Some of my favourite tools are:
 I've also still in love with music-making, having made scores for TV, movies and videogame and a BIG AMOUNT of my own releases... you can check a big index of them <strong><a href="https://gabrielguerra.org">here</a></strong>
 </p>
 
-<p> Feel free to contact me whenever you want at my:
-<ul>
-  <li>
+<p> Feel free to contact me whenever you want at my: </p>
+
+<p>
     <a href="mailto:gabrielpessoaguerracavalcanti@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
     <a href="https://www.linkedin.com/in/gabriel-pessoa-guerra/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  </li>
-</ul>
 </p>
 
 
