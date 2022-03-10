@@ -1,6 +1,8 @@
 <h1> Gabriel Guerra </h1>
 
 <p> Hello, i'm a full stack developer, <strong>always</strong> learning and who it's also an aficionado by the creative world of problem-solving and design-thinking that comes with it.
+
+Nowadays i work at Nobordist, a company that works on SAAS platform that connects easily with any system to help online sellers from all over the world with printing Latin American compliant shipping documentation, shipment tracking and customer notifications, and streamlining shipping and returns. I'm part of the Integrations API team, working on an API that integrates with many carriers API all over the globe.
 </p>
 
 <p>
