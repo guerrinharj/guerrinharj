@@ -1,9 +1,24 @@
 <h1> Gabriel Guerra </h1>
 
-<p> Hello, i'm a full stack developer, <strong>always</strong> learning and who it's also an aficionado by the creative world of problem-solving and design-thinking that comes with it.
+<p>Hi, my name is Gabriel Guerra, I’m 31 years old developer based in Rio de Janeiro, Brazil,
+mainly working with the Ruby on Rails framework, although I also deal with other roles, such as
+maintaining a small devops operation by constantly setting up Docker and the CI pipelines of Git
+repositories, and also dealing with the Vue.JS framework for basic front end
 
-Nowadays i work at Nobordist, a company that works on SAAS platform that connects easily with any system to help online sellers from all over the world with printing Latin American compliant shipping documentation, shipment tracking and customer notifications, and streamlining shipping and returns. I'm part of the Integrations API team, working on an API that integrates with many carriers API all over the globe.
-</p>
+    
+<p>In my last work at Nobordist, a logistics company, I led the development of the CrossBorder API.
+I took the job in early in 2022, and by the time that section of the company was still in baby
+steps, so I implemented a rigorous system for handling a high volume of daily HTTP requests
+from global carriers like DHL, FedEx, and UPS. I have to deal constantly with clients from the
+USA, Europe and mostly of all China as you may know China is. Pretty much the biggest party
+when it comes to worldwide logistics.</p>
+
+<p>Apart from business meeting, each week I was in charge of implementing new features -
+ensuring they were all test-driven by RSPec and meticulously organized our Git repository. So
+that mean working with a different environments and branches and trying to keep our tech team
+in sync. Communication had to be held a big standard.
+My main philosophy as a developer is a almost like a designer: to create legible and scalable
+systems that are mindful to the business’ goals.</p>
 
 <p>
 Some of my favourite tools are:
@@ -12,6 +27,7 @@ Some of my favourite tools are:
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"> 
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white"> 
 <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -23,7 +39,7 @@ Some of my favourite tools are:
 </p>
 
 <p>
-I've also still in love with music-making, having made scores for TV, movies and videogame and a BIG AMOUNT of my own releases... you can check a big index of them <strong><a href="https://gabrielguerra.org">here</a></strong>
+I've also still in love with music-making, having made scores for TV, movies and videogame and a BIG AMOUNT of my own releases... you can check a big index of them <strong><a href="https://gpgc.info">here</a></strong>
 </p>
 
 <p> Feel free to contact me whenever you want at my: </p>
