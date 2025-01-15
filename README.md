@@ -1,6 +1,6 @@
 <h1> Gabriel Guerra </h1>
 
-<p>Hi, my name is Gabriel Guerra, I’m a 31 years old developer based in Rio de Janeiro, Brazil,
+<p>Hi, my name is Gabriel Guerra, I’m a NaN years old developer based in Rio de Janeiro, Brazil,
 mainly working with the Ruby on Rails framework, although I also deal with other roles, such as
 maintaining a small devops operation by constantly setting up Docker and the CI pipelines of Git
 repositories, and also dealing with the Vue.JS framework for basic front end
