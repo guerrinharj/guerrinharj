@@ -1,24 +1,12 @@
 <h1> Gabriel Guerra </h1>
 
-<p>Hi, my name is Gabriel Guerra, I’m a full stack developer based in Rio de Janeiro, Brazil,
-mainly working with the Ruby on Rails framework, although I also deal with other roles, such as
-maintaining a small devops operation by constantly setting up Docker and the CI pipelines of Git
-repositories, and also dealing with the Vue.JS framework for basic front end
+<p>I’m a full-stack developer from Rio de Janeiro with over 5 years of experience building web applications that balance creativity with solid engineering.</p>
 
-    
-<p>In my last work at Nobordist, a logistics company, I led the development of the CrossBorder API.
-I took the job in early in 2022, and by the time that section of the company was still in baby
-steps, so I implemented a rigorous system for handling a high volume of daily HTTP requests
-from global carriers like DHL, FedEx, and UPS. I have to deal constantly with clients from the
-USA, Europe and mostly of all China as you may know China is. Pretty much the biggest party
-when it comes to worldwide logistics.</p>
+<p>My main focus is on API development, e-commerce, and crafting test-driven, scalable systems. I’ve worked across startups, freelance gigs, and personal projects—everything from streaming platforms to internal tools and dashboards. I enjoy the full journey: planning, coding, debugging, deploying, and refining.</p>
 
-<p>Apart from business meeting, each week I was in charge of implementing new features -
-ensuring they were all test-driven by RSPec and meticulously organized our Git repository. So
-that mean working with a different environments and branches and trying to keep our tech team
-in sync. Communication had to be held a big standard.
-My main philosophy as a developer is a almost like a designer: to create legible and scalable
-systems that are mindful to the business’ goals.</p>
+<p>I mostly work with Ruby on Rails, Python/Django, Vue.js, React, and Docker. I'm comfortable jumping between backend logic and frontend design, and I care a lot about code quality, performance, and developer experience. I also spend time setting up CI/CD pipelines and monitoring systems to keep things smooth in production.</p>
+
+<p>I’m always exploring new tools and ideas—whether it's building something from scratch or improving an existing flow. My goal is to make useful, reliable software that people enjoy using.</p>
 
 <p>
 Some of my favourite tools are:
